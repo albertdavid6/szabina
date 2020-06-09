@@ -1,2 +1,0 @@
-# szabina
-szabina honlapja
